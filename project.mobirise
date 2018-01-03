@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "Home.html",
-    "name": "PanduanPercutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
+    "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -41,13 +41,17 @@
     "sitemapSwitcherAuto": "on",
     "google-analytics": "",
     "cookiesAlert": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "github",
+    "gitHubName": "langkawitourism",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "Pelancongan Langkawi | MPLBP",
+        "title": "Percutian di Langkawi | MPLBP",
         "meta_descr": "Percutian langkawi, mplbp,  MPLBP,  Tourism Langkawi, tempat menarik langkawi, penginapan langkawi, aktiviti yang boleh dilakukan di langkawi, cadangan beberapa medan selera langkawi. tempat makan langkawi, pantai langkawi, pulau-pulau langkawi, akan datang di langkawi,",
         "header_custom": "",
         "footer_custom": "",
