@@ -41,7 +41,11 @@
     "sitemapSwitcherAuto": "on",
     "google-analytics": "",
     "cookiesAlert": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "github",
+    "gitHubName": "langkawitourism",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Home.html": {
